@@ -1,3 +1,24 @@
 #aboutme{
     color: darkblue;
+    border: darkblue;
+    border-style: solid;
+    text-align: center;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-style: solid;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19), 10px 10px 25px 5px rgb(114, 16, 206) inset;
+}
+
+
+#greeting{
+    
+}
+
+#biobg{
+    background-color: black;
+    background-image: url(../images/bioback.jpg);
+    opacity: 0.9;
 }
