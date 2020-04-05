@@ -59,3 +59,24 @@ body{
 }
 
 
+.card-header{
+    text-align: center;
+
+    background-color: black;
+    color: blue;
+    font-size: 150%;
+    display: block;
+    background-image: url(../images/bioback.jpg);
+
+}
+
+.card-body{
+    text-align: center;
+    border-color: black;
+    background-color: grey;
+    color: indigo;
+    font-size: 150%;
+    display: block;
+    background-image: url(../images/bioback.jpg);
+    
+}
